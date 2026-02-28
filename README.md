@@ -38,6 +38,7 @@
   - Go to [this repository releases](https://github.com/Coxinha2K/PyAutoClicker/releases)
   - Go to latest version available
   - Download ```pyautoclicker.py```
+  - Alternately, you can click [here](https://github.com/Coxinha2K/PyAutoClicker/releases/download/v1.0/pyautoclicker.py) to download **PyAutoClicker**
   > ***Tip:***
   > Add ```pyautoclicker.py``` to PYTHONPATH so you can run ```python3.9 -m pyautoclicker``` to open the autoclicker
 - Run ***PyAutoClicker***
